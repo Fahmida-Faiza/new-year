@@ -1,0 +1,120 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+
+.banner-column {
+
+    /* border: 2px solid red; */
+    width: 31%;
+    height: 500px;
+    display: flex;
+    padding: 100px 200px 200px 800px;
+    gap: 100px;
+    background: url('./images/banner/banner1.png');
+
+
+}
+
+.banner-title {
+
+    padding: 100px 50px;
+}
+
+.b-title {
+    font-style: normal;
+    font-size: 45px;
+}
+
+.p-title {
+    color: #444343;
+
+}
+
+.btn-primary {
+
+    border-radius: 5px;
+    background: #F15B22;
+    width: 140px;
+    height: 54px;
+    border: 0;
+    float: right;
+    color: white;
+
+}
+
+/* 2nd part */
+
+.picture {
+    padding-left: 150px;
+}
+
+.s-title {
+
+    /* border: 2px solid red; */
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+
+}
+
+.p-style {
+    font-size: 40px;
+    color: #444343;
+}
+
+
+.second-column {
+    display: flex;
+    /* border: 2px solid red; */
+    gap: 30px;
+    margin-top: 110px;
+}
+
+
+
+.second-column-body {
+    padding: 150px 0;
+}
+
+/* 3rd part */
+.third-column {
+    display: flex;
+    gap: 70px;
+    padding-left: 330px;
+    margin-top: 60px;
+
+}
+
+.heading-title {
+    padding-left: 670px;
+    margin-top: 70px;
+}
+
+.p-color-title {
+    color: #737272;
+}
+
+.background-image {
+
+    background: url('./images/watch.png');
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    margin-left: 140px;
+    margin-top: 110px;
+
+
+
+}
+
+.center {
+    text-align: start;
+    position: relative;
+
+}
+
+.footer-container {
+    display: flex;
+}
