@@ -111,7 +111,12 @@ body {
 
 .center {
     text-align: start;
-    position: relative;
+    /* border: 2px solid greenyellow; */
+position: relative;
+bottom: 230px;
+padding-left: 50px;
+color:#FFF;
+
 
 }
 
@@ -155,4 +160,14 @@ border-radius: 8px;
             height: 40px;
             border: 0;
             color:#F15B22;
+}
+
+.btn2{
+border-radius: 8px;
+    background: #FFF;
+    width: 130px;
+    height: 40px;
+    border: 0;
+    color: #F15B22;
+
 }
