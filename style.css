@@ -115,6 +115,44 @@ body {
 
 }
 
+/* footer */
+
 .footer-container {
     display: flex;
+    gap:30%;
+    background-color: #151414;
+    color:#FFF;
+    margin-top:     150px;
+height: 577px;
+
+}
+
+.fisrt-part{
+  padding:60px  150px;
+
+}
+
+.form-page{
+    padding-right: 100px;
+    padding-top: 60px;
+}
+
+.email-size{
+
+ height: 40px;
+ width: 200px;
+border-radius: 8px;
+}
+
+.icon{
+    padding: 8px;
+}
+
+.btn{
+    border-radius: 8px;
+        background: #FFF;
+        width: 100px;
+            height: 40px;
+            border: 0;
+            color:#F15B22;
 }
